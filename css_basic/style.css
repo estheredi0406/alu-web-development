@@ -13,6 +13,14 @@ main {
     flex: auto; /* Automatically adjusts height and width */
 }
 
+.logo{
+    font-size: 2.5rem;
+    background-color: #336;
+    color: white
+    padding: 10px
+    border-radius: 50%;
+}
+
 /* Make the article take 2/3 of the available space */
 article {
     flex: 2;
