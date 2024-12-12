@@ -1,0 +1,43 @@
+
+.headeruti{
+
+    margin-top: 50px;
+    display: flex;
+    height: 70px;
+    background-color: rgb(0,2,105);
+}
+
+#utivalogo{
+    color: rgb(0,3,169);
+}
+.ulutiva{
+    display: flex;
+
+}
+
+.ulutiva li{
+    list-style: none;
+    padding: 20px;
+}
+
+.ulutiva li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+}
+
+.buttons #button2{
+    background-color:  rgb(0,2,105);
+    color: white;
+    border: 2px solid white;
+}
+
+.buttons #button1{
+    background-color:  rgb(0,3,169);
+    color: white;
+    border: none;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+

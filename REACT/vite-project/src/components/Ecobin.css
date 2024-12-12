@@ -1,0 +1,45 @@
+.ecobinheader {
+    margin-top: 50px;
+    justify-content: flex-start;
+    border-bottom: 1px solid rgb(3,185,3);
+    background-color: white;
+    
+}
+
+#ecobinlogo {
+    color: rgb(3,185,3);
+}
+
+.ecobinul{
+    list-style: none;
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+
+
+.ecobinul li{
+    padding: 20px;
+
+}
+
+.ecobinul li a {
+    text-decoration: none;
+    color:black ;
+
+}
+
+.ecobinul li a:hover{
+    color: rgb(3,185,3);
+}
+
+
+#ecobinbutton{
+    background-color: rgb(3,185,3);
+    color: white;
+    margin-left: auto;
+}
+
+
+
+
