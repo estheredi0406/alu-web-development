@@ -1,0 +1,69 @@
+
+.Wrapper{
+    display: flex;
+    margin-top: 50px;
+    height: 50%;
+}
+
+.Wrapper_1{
+
+    width: 60%;
+    margin-top: 30px;
+    align-items: center;
+    text-align: left;
+    position: relative;
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Wrapper_1 h1 {
+    font-size: 50px;
+    margin-bottom: 25px;
+
+}
+
+
+.Wrapper_1 h2{
+    font-size: 22px;
+    font-weight: 100;
+    margin-bottom:50px;
+}
+.Wrapper_1 h2 #icons{
+    display: flex;
+    position: absolute;
+    left: 460px;
+    top: 310px;
+    color: green;
+   
+}
+
+
+.Image{
+    margin-right: -100px;
+    height: 100%;
+    background-color: white;
+}
+
+.Image img{
+width: 60%;
+margin-top: 20px;
+    
+}
+
+#Ecobutton{
+    display: flex;
+    background-color:rgb(3,185,3);
+    padding: 10px 40px;
+    align-items: center;
+    color: white;
+}
+
+#Ecobutton #iconbutton{
+    align-items: center;
+    padding-left: 8px;
+    font-size: 20px;
+    margin-top: 5px;
+    color: white;
+}
+
+
